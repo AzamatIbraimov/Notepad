@@ -9,3 +9,14 @@ Talk to me about:
 - Swing
 - MVC pattern
 - Javadoc
+## 🚀 How to run
+- Install Java 1.8
+- Open the source code folder
+- Compile all java files using 
+```
+javac *.java
+```
+- Run the Main class using 
+```
+java Main
+```
