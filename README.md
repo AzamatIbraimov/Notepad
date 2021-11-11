@@ -20,3 +20,4 @@ javac *.java
 ```
 java Main
 ```
+## 👾 Screenshots
