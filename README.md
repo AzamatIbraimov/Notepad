@@ -20,6 +20,11 @@ javac *.java
 ```
 java Main
 ```
+## :microscope: Architecture explanation
+MVC is a design pattern used to decouple user-interface (view), data (model), and application logic (controller). This pattern helps to achieve separation of concerns.
+
+<img src="https://php.zone/uploads/img/5403ce7c3097a47f7cb29cebc78e67c56922005150178bf75da404440c422f96.png">
+
 ## 👾 Screenshots
 
 <img src="https://sun9-9.userapi.com/impg/ZVeypVG8e_qGL4ywjnMBl_ABCoZo9tRKCbpdKw/itzqtHhDPDM.jpg?size=949x882&quality=96&sign=cbd6aa4c27ce6a3c5814e973c9baa3df&type=album">
