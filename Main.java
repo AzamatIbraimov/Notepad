@@ -1,6 +1,4 @@
 /**
- * Copyright (C) 2020 Intern Labs O!
- * <p>
  * Notepad program made with Java and Swing with MVC pattern
  * Main features:
  * Open documents;
@@ -9,7 +7,6 @@
  * Print document on paper or pdf file.
  * And a lot of other features!
  *
- * @author Erkin Koshoev
  * @author Azamat Ibraimov
  */
 public class Main {
